@@ -1,4 +1,4 @@
 # java-package
 
-![TestBage](https://github.com/hexlet-boilerplates/java-package/workflows/Java%20CI/badge.svg)
+![TestBage](https://github.com/fjellaperc/testGithubActions/tree/main/.github/workflows/hello.yml/badge.svg?event=push)
 
