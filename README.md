@@ -1,2 +1,2 @@
 #java-package:
-	![Project2](https://github.com/fjellaperc/testGithubActions/workflows/hello.yml/badge.svg)
+	![Project2](https://github.com/hexlet-boilerplates/java-package/workflows/Java%20CI/badge.svg)
