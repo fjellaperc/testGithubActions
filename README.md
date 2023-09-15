@@ -1,3 +1,3 @@
 # java-package
 
-[![TestBage](https://github.com/fjellaperc/java-project-71/workflows/hexlet-check/badge.svg)](https://github.com/fjellaperc/testGithubActions/blob/main/.github/workflows/hello.yml?event=push)
+[![TestBage](https://img.shields.io/badge/testBagde-passing)](https://github.com/fjellaperc/testGithubActions/blob/main/.github/workflows/hello.yml?event=push)
